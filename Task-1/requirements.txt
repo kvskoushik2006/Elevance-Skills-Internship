@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+nltk
+sentence-transformers
+faiss-cpu
+scikit-learn
+pickle-mixin
