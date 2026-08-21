@@ -1,0 +1,21 @@
+You: hi
+Bot: Hi there, how can I help?
+
+You: hello
+Bot: Good to see you again
+
+You: tell about yourself
+Bot: Good to see you again
+
+You: good day
+Bot: Hi there, how can I help?
+
+You: are you cash only?
+Bot: We accept VISA, Mastercard and AMEX
+
+You: what is todays temparture
+Bot: weather today : 30
+
+You: what will be tommorrows temperature
+Bot: weather tomorrow : 40
+

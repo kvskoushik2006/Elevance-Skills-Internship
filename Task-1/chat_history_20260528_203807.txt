@@ -1,0 +1,15 @@
+You: hello
+Bot: Good to see you again
+
+You: time
+Bot: The current time is 20:37:22.
+
+You: search anime
+Bot: I've opened a web search for 'anime'.
+
+You: bye
+Bot: Goodbye! Have a great day!
+
+You: exit
+Bot: Goodbye! Have a great day!
+
