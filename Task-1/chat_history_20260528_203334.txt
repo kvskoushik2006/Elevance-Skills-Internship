@@ -1,0 +1,27 @@
+You: hi
+Bot: Hi there, how can I help?
+
+You: hello
+Bot: Good to see you again
+
+You: tell about yourself
+Bot: Good to see you again
+
+You: good day
+Bot: Hi there, how can I help?
+
+You: are you cash only?
+Bot: We accept VISA, Mastercard and AMEX
+
+You: what is todays temparture
+Bot: weather today : 30
+
+You: what will be tommorrows temperature
+Bot: weather tomorrow : 40
+
+You: time
+Bot: The current time is 20:33:01.
+
+You: search google
+Bot: I've opened a web search for 'google'.
+
